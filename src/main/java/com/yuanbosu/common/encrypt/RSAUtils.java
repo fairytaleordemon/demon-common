@@ -21,7 +21,6 @@ import com.google.common.collect.Maps;
  * 参考文章：https://github.com/Sea-Monster/rsa_javaweb_javascript/tree/master/
  * rsa_encrypt_decrypt_demo
  * 
- * @author suyuanbo 
  * 			RSA 非对称加密算法 应用场景，公司内安全需要走HTTPs，但是HTTPS证书没有审批完成，所有先使用RSA
  *         加密算法。
  * @content 需要配置源码中的js rsa.js使用。
